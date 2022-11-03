@@ -98,13 +98,12 @@ A fork is another way to copy a repository, but is most commonly used when contr
 
 Read more about forking [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-## 📝 Optional next steps 
+## 📝 HOMEWORK
 
-* Open a pull request and let your teacher know that you’ve finished this course.  
-* Create a new markdown file in this repository. Let them know what you learned and what you are still confused about! Experiment with different styles!
-* Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? [Here](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme) are steps on how to do that. 
-* Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
-* Let us know what you liked or didn’t like about the content of this course. What would you like to see more of? What would be interesting or helpful to your learning journey? Take our survey. 
+* Open a pull request to let me know that you’ve finished this course (You can just edit this page and commit to a pull request).
+* Create a new markdown or text file in this repository. Let me know what you learned and what you are still confused about.
+* Describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R and/or GitHub can be used.
+* Save the file, commit the changes, and push the homework to the GitHub repository for the homework.
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
